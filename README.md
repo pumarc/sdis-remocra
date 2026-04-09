@@ -8,6 +8,9 @@
 *Un eco système métier conçu en collaboration avec le SDIS du Var.*
 
 
+## Remarque importante
+Le projet REMOcRA a été déplacé dans un autre repo GitHub. Les sources sont accessibles via l'adresse suivante : https://github.com/SDIS83-GSIC/REMOcRA-Application/
+
 ## Fonctionnalités
 
 * Gérer le **parc des points d’eau** et **structurer leur contrôle** (tournées)
